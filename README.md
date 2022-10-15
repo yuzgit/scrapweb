@@ -6,3 +6,5 @@ var elm=document.createElement('script');
 elm.setAttribute('src', url);
 document.body.appendChild(elm);
 ```
+
+queryでscrapboxユーザー名を付与してjsに渡せるようにする
